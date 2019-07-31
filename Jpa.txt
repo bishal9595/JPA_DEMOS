@@ -1,0 +1,6 @@
+For Jpa
+
+
+first paste the folder lib in the java project and then right click on the project build path=>Add Build Path
+Add to Build Path=>Create a new folder called META-INF inside src directory. This folder will host persistence configuration file. 
+i.e. persistence.xml
